@@ -1,0 +1,182 @@
+IHM
+
+Anotações Gerais:
+
+Tip #1: Hierarquia
+
+	1) Tamanho
+	2) Cor
+	3) Alinhamento
+	4) Espaço em Branco
+
+-----------------------------------------------------------------
+
+Daniel Furtado - UXNOW
+
+
+
+FUNDAMENTOS DO UX
+
+	UX (Experiência do Usuário)
+		É relativo ao uso de algo
+
+	UX é a preocupação com o usuário.
+
+	Fundamento 101: O erro NUNCA é do usuário, e sim do sistema"
+	Conceito 102: 	Os usuários são mais permissivos com interfaces 'bonitas'
+
+	UX É A INTERSECÇÃO ENTRE OS OBJETIVOS DO USUÁRIO E OS OBJETIVOS DO NEGÓCIO
+
+--------------------
+
+DESIGN
+
+ O QUE É?
+ 	Não é só aparência!
+ 	"Passar batom no porco" - COOPER, Alan -> Funciona? Pode té funcionar, mas pode não ser este o problema de alguma coisa.
+	
+ 	Design == Projetar algo/ Ação de Projetar
+	
+ 	Você pode projetar algo bonito
+ 	Você pode projetar algo feio (como placas de perigo, por exemplo)
+	
+ 	Superpoderes do designer: se colocar em vários cenários
+
+--------------------
+
+COMO FAZER UX?
+	
+	Não se projeta A experiência, mas sim PARA a experiência
+		"Não vou projetar a segurança para a pessoa. Vou projetar PARA a segurança da pessoa"
+
+	Projetar o CONTAINER onde a experiência pode acontecer
+
+	Uma peça fundamental para você projetar a experiência para alguém, é justamente "ALGUÉM". Esse alguém NÃO É VOCÊ!
+
+	Uma das melhores maneiras de você projetar a experiência para alguém é usar uma abordagem chamada "Design Centrado no Usuário".
+	Nem todo o design é centrado no usuário. Não é só o usuário que é levado em consideração no processo de design.
+
+		DESIGN CENTRADO NO USUÁRIO
+			É uma abordagem de design, onde qualquer etapa em que se voltar, o foco sempre deve ser: não é para mim, e sim para o usuário.
+			Sempre que houver uma dúvida, as decisões sempre precisam puxar para o lado do usuário, para os objetivos do usuário.
+
+--------------------
+
+OBJETIVO DO PRODUTO
+	
+	Geralmente o objetivo do negócio é dar lucro.
+
+	Uma coisa que é importante sobre a melhoria da experiência do usuário, é que ela é totalmente relacionada à expectativa do usuário. Quanto mais congruente com as expectativas do usuário, melhor para os negócios.
+
+	Exemplo: Messenger (Objetivo: permitir a comunicação entre duas pessoas)
+
+	Cuidado com as promessas. Mantenha sempre no básico os objetivos do produto.
+		Problemas:
+			- caso vocẽ não às cumpra: seu produto não faz aquilo para o que ele foi desenvolvido para fazer.
+			- caso vocẽ às cumpra: pode ser que ele seja complicado para o usuário aprender a fazer as coisas ali. Para isso o usuário teria de pensar muito para aprender, e quando alguém fica pensando muito e ela não consegue fazer, a pessoa fica frustrada. E quando alguém fica frustrado, esta pessoa fica desmotivada para usar o seu aplicativo.
+
+	Necessário definir as "métricas de sucesso"
+
+	PERGUNTAS IMPORTANTES:
+		- Qual o seu objetivo?
+		- Qual a sua métrica de sucesso?
+
+--------------------
+
+OBJETIVOS DO USUÁRIO - Como conhecer o seu usuário?
+
+	PASSO 1: SAIR DO ESCRITÓRIO
+		Ir para um lugar onde tem aquele usuário.
+
+	Normalmente, faz-se algo derivado de estudo etinográfico.
+
+	PASSO 2: CONVERSAR COM USUÁRIOS
+		Vamos ficar escondido vendo ele usar alguma coisa (observação), fazer uma entrevista, ou filmar o uso dele e depois assistir. O importante é ver aquela pessoa usando nosso produto.
+
+		Ao fazer isso, podemos pegar aquilo e ver quais são as coisas comuns dos usuários. Vamos agrupar as pessoas que possuem aquele mesmo objetivo.
+		Existem certos grupos de pessoas que possuem limitações (barreiras).
+
+	PASSO 3: ORGANIZAR OS DADOS	
+		Registre o máximo de informação possível sobre ele [usuário].
+			- Não faça notas;
+			- Apenas escute;
+			- Fale pouco.
+	
+		Depois, ao chegar no seu escritório, você anota tudo o que ele falou.
+
+	Após este passo, você pesquisará outro usuário, e assim por diante. Alan Cooper diz que o ideal seria pesquisar por 8 usuários. 2 que são extremos de um lado, 2 que são extremos do outro e de repente você tem 4 que são usuários médios daquilo.
+
+	(+/- 40 minutos de entrevista)
+
+	- O que o cara quer?
+	- Em que momento?
+	- Por quê ele quer? (IMPORTANTE)
+	- Como você imagina que é fazer tal coisa?
+	- Você faz essa determinada coisa em que circunstância?
+	- Por que você quer fazer tal coisa?
+
+	PASSO 4: ANALISAR OS DADOS E DESCOBRIR O OBJETIVO DO USUÁRIO
+		O QUE TEM EM COMUM ENTRE OS USUÁRIOS? (Qual o objetivo comum entre eles?)
+		Você poderá perceber que eles possuem objetivos secundários, ou que eles possuem restrições comuns.
+
+	PASSO 5: FAZER UMA SOLUÇÃO INCRÍVEL PARA O PROBLEMA
+
+	(Isso se chama, pesquisa com o usuário)
+
+	Tips:
+		1) NÃO FIQUE USANDO O GOOGLE ANALYTICS
+		2) É importante conversar com o usuário.
+		3) Você está fazendo isso para descobrir o quanto o seu produto é burro ou o quanto o produto do concorrente é burro, e não o usuário
+
+--------------------
+
+PERSONA
+
+	O QUE É?
+		Um conjunto de atributos de um usuário ou cliente, ou grupo de cliente que é traduzido em uma ficha.
+
+	Existem basicamente 3 tipos de persona:
+		1) 	MARKETING PERSONA: relacionada a dados demográficos de um grupo grande de usuários
+
+		2) 	PROTO PERSONA: persona cujos dados são "chutados". É como se fosse a engenharia reversa do processo (começa no produto e baseado nele imagina-se os 	atributos de um usuário). É boa quando não se tem persona alguma, porém pode ser muito arriscada.
+
+		3) 	PERSONA DE DESIGN: os dados coletados com os usuários serão utilizados para criar uma persona. Não é uma persona baseada em estatística e também não 	pode ser inventada. É fundamental que uma persona de design seja baseada realmente nas entrevistas com usuários.
+
+		Trabalharemos com a 3ª opção.
+			Derivada do trabalho do Cooper ('The inmates are running the asylum')
+			Muito orientado ao objetivo dos usuários (qual o objetivo do usuário?) - Depende apenas do objetivo e não do dado demográfico (idade, etnia)
+
+
+		A persona é o objeto que representa o usuário.
+
+		(Subtrai o ego dos envolvidos no desenvolvimento e coloca em foco o ego do usuário)
+		É um alinhador de esforços.
+
+		RESUMIDAMENTE:
+
+		Passo 1 - Mapear objetivos
+		Passo 2 - Colocar numa ficha: noma, foto, descrição e objetivos
+		Passo 3 - Usar a persona!
+
+
+CRIANDO PERSONA (Prática)
+	
+	A persona nem sempre é estática. Ela pode ser ajustada.
+
+	"SEMPRE ADQUIRIR FEEDBACKS"
+
+--------------------
+
+ESCOPO
+
+	Diagrama de Jesse James Garrett - Elementos da Experiência do Usuário
+
+												Estratégia -> Escopo -> Estrutura -> Esqueleto -> Superfície
+											(+ Abstrata)											(+ Concreta)
+
+	Estratégia: Os porquês (o que o usuário precisa)
+	Escopo: os o quês e os comos (como que eu entrego isso? como que o produto faz aquilo que o usuário espera que ele faça?)
+
+	Nenhuma empresa tem tempo infinito nem orçamento infinito. Como existem limitações, é preciso mapear quais são as funções mais importantes, qual conteúdo é mais importante naquele momento, etc. (MVP)
+
+	Engenharia de Requisitos
