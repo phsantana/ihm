@@ -1,0 +1,23 @@
+1) Descreva seu Modelo Mental e o Modelo Conceitual para as seguintes atividades:
+	• Comprar uma Passagem para Nova York
+		Modelo Mental:
+			Entro no site de alguma agência de viagem. Procuro por alguma opção com o nome "passagem", ou "venda de passagem" e clico nesta opção. Seleciono o dia que pretendo ir e o dia que pretendo voltar em alguns campos no site e depois clico no botão "Consultar". Será me mostrado os horários, valores e empresas de aviação que estão vendendo aquela passagem para o dia que desejo. Seleciono minha passagem e clico em algum botão que me levará para uma próxima página, na qual escolherei meu assento, atentando para a legenda de quais estão disponíveis e quais estão ocupadas. Ao selecionar minha poltrona, eu clico em algum botão para ir para a próxima página ao qual selecionarei o método de pagamento. Seleciono o método "Cartão de Crédito" e preencho os campos relativos ao meu cartão. Ao concluir este passo, clico em algum botão referente à "Comprar". O sistema me mostrará todas as informações que foram preenchidas por mim e me perguntará se desejo confirmá-las e se também li e aceito os termos e condições de compra da passagem. Ao clicar em algum botão de confirmação, o sistema apresentará alguma mensagem de que foi enviada minha confirmação para meu e-mail e quantos dias no máximo será aprovado o pagamento.
+
+		Modelo Conceitual:
+
+	• Enviar um e-mail
+		Modelo Mental: Considerando que eu já esteja logado na minha conta, eu clico no botão "Novo" que me apresentará uma parte em branca contendo os campos: destinatário, assunto e em seguida o espaço em branco onde de fato escreverei minha mensagem, além de campos de formatação do texto da mensagem. Após concluir a minha mensagem, clico no botão "Enviar". O sistema me enviará uma mensagem indicando que meu e-mail fora enviado.
+
+		Modelo Conceitual:
+
+	• Criar um novo projeto Java no Netbeans
+		Modelo Mental: Estando com a IDE aberta, vou no canto superior esquerdo e clico no botão "Arquivo". Ele me mostrará uma lista de opções do que desejo fazer. Selecionarei a opção "Novo Projeto". Ao fazer isso, o sistema me apresentará um pop up para que eu selecione qual o tipo de aplicação Java eu desejo fazer. Clico em "Aplicação Java" e em seguida no botão "Próximo". O sistema pedirá que eu nomeie o nome do pacote e da classe principal. Ao concluir estes passos, clico no botão "Ok" e assim poderei desenvolver o meu projeto.
+
+		Modelo Conceitual:
+
+	• Criar um novo Grupo no Whatsapp
+		Modelo Mental: Toco em algum ícone localizado no canto superior direito do app. Entre as opções estará disponível alguma sobre criar grupo. Clico nesta opção e o sistema me pedirá os contatos que farão parte deste grupo, bem como uma descrição e uma foto para o grupo. Após este passo, poderei enviar mensagem a todos os vinculados a este grupo
+
+		Modelo Conceitual:
+
+2) 
