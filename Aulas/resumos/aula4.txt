@@ -1,0 +1,130 @@
+Aula 4
+
+ANTECIPAÇÃO
+	"Preocupa-se em tornar as ideias visíveis" (externalização do pensamento)
+	Necessária para representar o trabalho de design para nós mesmos e para os outros (clientes, usuários finais)
+
+	Ocorre ao longo do processo de criação à medida que o design cria múltiplas soluções que são reduzidas futuramente no produto final
+
+	"A antecipação coloca vida em ideias abstratas" (antecipação expõe falhas e dificuldades)
+
+	TÉCNICAS
+		PROTOTIPAÇÃO
+			"Um protótipo é uma representação ou implementação concreta, porém parcial, do design de um sistema"
+			Cria uma aproximação da ideia a fim de obter feedback para que seja possível aprender e iterar.
+
+			OBJETIVO
+				Facilitar o feedback
+					Cria o protótipo -> Avalia -> Refaz
+	
+			São sempre incompletos!
+			(O quanto meu produto ou o produto dos concorrentes é burro)
+	
+			Deve focar nos objetivos do design e não no design em si
+	
+			O que ele prototipa?
+				- Como vai se parecer?
+				- Como vai funcionar?
+				- Como será a experiência do usuário?
+	
+			PROTOTIPAÇÃO AO LONGO DO PROJETO DE DESIGN
+			"Ao longo do desenvolvimento de um projeto de design, a fidelidade dos protótipos criados aumenta. E as ferramentas para a criação desses protótipos devem 	propiciar o nível de fidelidade requerido"
+	
+			INÍCIO DO PROCESSO DE DESIGN
+				Devem ser utilizadas ferramentas que permitam construir protótipos de baixa fidelidade e que não consumam muito tempo
+
+			TÉCNICAS DE PROTOTIPAÇÃO
+				- Storyboard:
+					Ajudam a entender os tipos de tarefas e os cenários de utilização/execução que seu design deve suportar, bem como a fazer com que você e seu clinete conversem sobre um objetivo em comum.
+					Foca nas tarefas que serão executadas, e não na interface de fato.
+					Objetivo: ilustrar um objetivo
+					Vantagem:
+						Em apenas alguns painéis é possível observar como uma interface com o usuário poderia ajudar uma pessoa a executar determinada tarefa.
+					"Um bom Storyboard sempre irá incluir uma persona rerpesentativa dos tipos de usuários reais"
+
+					Roteiro:
+						1) Contexto (pessoas envolvidas, ambiente, tarefas)
+						2) Qual a sequência de tarefas/atividades (qual o passo a passo? O que leva alguém a usar este aplicativo? Qual tarefa/atividade está sendo 	ilustrada?)
+						3) Nível de satisfação (o que motiva as pessoas envolvidas a usarem o design? O que possibilita o uso desse design?)
+
+				- Protótipos de papel (Wireframes):
+					Servem para dar uma boa ideia de como sua interface será nos estágios iniciais do processo de desenvolvimento
+					São rápidos de fazer e eficientes.
+					Ajudam a pensar em possibilidades.
+					As alterações podem ser feitas pelo usuário (de forma mais rápida também).
+
+					Importante tentar várias alternativas.
+
+				- Protótipos de vídeo:
+					Garantem que a equipe de desenvolvimento não esqueça o papel importante que o usuário tem no uso daquilo ue está sendo criado
+					"Vídeos mostram como seria a utilização real do sistema que você está criando"
+
+					Deve ser incluída:
+						- Toda a tarefa, incluindo motivação e casos de sucesso (assim como nos Storyboards)
+						- As tarefas que sua aplicação permite executar
+					Ajuda a definir o escopo mínimo do produto final
+
+					Processo:
+						Começa com o Storyboard (planeje)
+						Utilize, se necessário, o protótipo de papel criado
+						Improvise (coloque papéis grudados em paredes, use as ferramentas que tiver em mãos)
+
+						Vantagens:
+							- Rápidos e baratos
+							- Auto explicativos
+							- Podem servir para os desenvolvedores reconhecerem contextos de uso
+							- Aplica o design em teste às tarefas reais que serão executadas e em ambientes reais
+
+				- Mock-ups Digitais
+					Protótipos mais elaborados e feitos com a ajuda da tecnologia
+					Tomam mais tempo para serem feitos do que protótipos de papel
+					Útil quando se torna necessário ser mais específico em relação ao que está sendo desenvolvido.
+
+			EVOLUÇÃO DE FEEDBACK DO USUÁRIO
+				"Conforme seu protótipo evolui em termos de fidelidade ao design final e real, o tipo de feedback obtido a partir do usuário também evolui"
+
+
+			TÉCNICA DO MÁGICO DE OZ
+				"O feiticeiro que fazia de conta ser algo muito assustador"
+
+				A ideia pode ser aplicada no contexto de prototipação
+					- Simular o comportamento interativo e as funcionalidades reais do que está sendo criado.
+					- Envolver o usuário na manipulação desse protótipo e passar a ideia que é um produto real.
+
+				Componentes de um protótipo que possa ser testado usando a técnica “Magico de OZ”
+					- Você precisa ter algua coisa que possa ser chamada de interface e que pode ser entregue ao usuário para ser testada
+						Mesmo que simples, esta interface deve ser capaz de dar ao usuário a sensação de estar manipulando a interface real.
+						Não deve haver muito código, toda a interatividade é criada como uma "miragem", simulação
+
+				"Faz sentido utilizar esse tipo de protótipo quando é muito mais fácil, rápido e barato fazer uma simulação realística do que construir realmente o que está sendo desenvolvido"
+
+				É mais fácil construir um protótipo para a técnica "Mágico de Oz" se o conjunto de funcionalidades a serem testadas forem limitadas.
+
+				Testes com a Técnica Mágico de Oz contam com:
+					- Um facilitador (pessoa que conversa diretamente com o usuário)
+					- O "wizard" que manipula o protótipo para dar realismo às interações feitas
+					(Uma única pessoa pode fazer as duas coisas)
+
+				Anote tudo que estiver acontecendo
+
+				Vantagens:
+					- Rápidos e baratos;
+					- Criar múltiplas versões é fácil;
+					- Mais "reais" do que protótipos estáticos de papel;
+					- Ajuda a identificar problemas com o design atual;
+					- Coloca o usuário como sujeito central no processo de desenvolvimento;
+					- Ajuda a visualizar a interação com tecnologias que podem ainda não existir;
+
+				Desvantagens:
+					- Simulações podem não representar imperfeições no que está sendo testado.
+					- É necessário ter cuidado para não simular um tipo de tecnologia que talvez nunca venha a existir (teletransporte)
+					- As simulações/testes "Mágico de Oz" requerem treinamento, requer tempo
+					- Pode ser cansativo para a pessoa que está fazendo as simulações
+					- Não é efetiva para todo tipo de interface
+
+			PROTÓTIPOS: BAIXA FIDELIDADE X ALTA FIDELIDADE
+
+				Nos estágios iniciais do projeto de design, é recomendável utilizar protótipos de papel ou protótipo menos elaborado
+				Quando o projeto evolui e tanto a ideia quanto a interface já estão mais "maduras", então é o momento de aumentar a fidelidade do protótipo
+				Quanto mais fiel ao produto final for o seu protótipo, mais fácil será para os usuários "sentirem" como será o produto final
+				No entanto, construir uma interface com alta fidelidade tomará muito tempo

@@ -1,0 +1,87 @@
+Aula 2
+
+ Observação (Objetivos cliente/empresa)
+ 	Observar (conhecimento tácito - imersão)
+ 	Fique atento à tudo que é usado para executar as tarefas (especialmente as gambiarras)
+
+ 	Não tenha medo de errar! O erro ajuda muito.
+
+ 	Lembre-se: o usuário não sabe o que ele quer (pessoas dizem uma coisa e fazem outra)
+
+ PROCESSO PARA IDENTIFICAR NECESSIDADES
+ 	Observação -> Entendimento -> Requisitos
+
+ 	Requisito: algo que o produto deve fazer ou uma qualidade que o produto deve ter
+
+ 		Tipos:
+ 			- Funcionais: o que o sistema DEVE fazer;
+ 			- Não-funcionais: Qualidades que o sistema deve ter. Afetam aspectos de: aceitabilidade; venda; uso.
+
+ 		Atividades relacionadas aos requisitos:
+ 			- Coleta de requisitos: os requisitos estão espalhados por aí esperando?
+ 			- Geração de requisitos: sugere uma atividade mais criativa que tende a minimizar as ligações com a prática existente
+ 			- Extração de requisitos: sugere a interação com o usuário, cliente ou parte interessada
+ 			- Engenharia de requisitos: uma abordagem mais formal, sendo mais utilizada em Engenharia de Software.
+
+ 		Coleta		-> 		Entendimento
+ 		Geração
+
+ 		TÉCNICAS DE LEVANTAMENTO DE REQUISITOS
+ 			"É importante envolver as pessoas no processo de design! Sempre que possível"
+ 			As ressaltadas:
+ 				- Entrevistas:
+ 					Observação + Entrevista
+ 					Perguntar diretamente sobre as experiências vivenciadas durante a execução de determinada tarefa.
+
+ 					Tipos:
+ 					- Estruturadas
+ 					- Semi-Estruturadas
+ 					- Não-Estruturadas
+
+ 					Quem entrevistar:
+ 					- Representantes (representam a grande maioria dos usuários)
+ 					- Usuários de sistemas similares (referências/trabalhos correlatos)
+ 					- Não-usuários (uma persona secundária)
+
+ 					"Importante entrevistar diferentes tipos de usuários que pertencem ao domínio do problema"
+ 					"Pergunte sobre os objetivos e sobre a vida dos entrevistados!"
+
+
+ 				- Diário (Registro de atividades):
+ 					Utilizada para observações de tempo mais longo.
+ 					As atividades do dia-a-dia devem ser registradas em um período específico
+ 					Usados também para capturar informações específicas (como tu se sente entre às 8h e às 10h da manhã?)
+ 					Vários tipos de mídias podem ser usadas para fazer os registros (atenção ao contexto)
+
+ 					"É preciso acompanhar o processo periodicamente e relembrar os envolvidos que é necessário manter o diário"
+
+
+ 				- Questionários:
+ 					Coletam dados de um grande número de pessoas, até mesmo geograficamente dispersas (+ cômodo)
+ 					Perguntas abertas reduzem a taxax de respostas (uma desvantagem)
+
+ 					"Pode ser utilizado quando já temos uma noção das respostas e queremos conhecer a proporção delas em uma determinada população de usuários"
+
+
+ 				- Grupos de foco (interesse)
+ 					Um grupo de foco é reunido (entre 3 e 10 pessoas) por 1 ou 2 horas numa espécie de discussão (ou entrevista coletiva).
+ 					Guiada por uma moderador
+
+ 					"Se bem conduzidas, podem fornecer uma ampla gama de informações em um curto período de tempo"
+
+ 					Utilizado para:
+ 						- Gerar ideias;
+ 						- Obter opiniões sobre tópicos, conceitos ou demonstrações;
+ 						- Identificar conflitos e expectativas dos usuários;
+ 						- Descobrir problemas e preferências.
+
+ 				- Workshops
+ 				- Brainstorming
+ 				- Classificação de cartões
+ 				- Estudos de campo
+ 				- Investigação contextual
+
+ 		PERSONAS
+ 			Servem para manter as informações dos usuários que foram coletadas no levantamento de requisitos.
+ 			Modelo representativo dos tipos de usuários que foram identificados.
+ 			(Já visto no UX Now)

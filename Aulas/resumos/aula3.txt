@@ -1,0 +1,109 @@
+Aula 3
+
+MODELOS MENTAIS
+ "As pessoas interagem com sistemas e dispositivos por meio do conhecimento do que eles podem fazer e de como podem fazê-lo"
+
+ São representações do modo como uma pessoa pensa que algo funciona
+ 	Baseado em:
+ 		- Fatos incompletos;
+ 		- Experiências anteriores;
+ 		- Percepções intuitivas;
+
+ Entendimento e conhecimento que temos a respeito de algo.
+ Visto como uma representação dinâmica sobre qualquer sistema ou objeto, que evolui naturalmente na mente de um sujeito.
+ "Enquanto uma imagem seria um frame num filme, um modelo mental seria um pedaço desse filme"
+
+ São acionados quando precisamos fazer inferências ou previsões a respeito de determinado assunto!
+
+ Baseados em crenças e não em fatos (é um modelo daquilo que os usuários sabem sobre o sistema)
+
+ Sem eles, as pessoas resolveriam problemas por repetição (sem pensar)
+
+ Podem ser modificados com o tempo
+
+
+MODELOS MENTAIS APLICADOS EM DESIGN DE SOFTWARE
+ "Problemas de usabilidade podem ser gerados por Modelos Mentais equivocados"
+
+ "O objetivo do design é fazer com que a interface se comunique com o usuário de modo que este forme modelos mentais corretos, adequados para uso da interface".
+
+ São incompletos
+ 	Até mesmo pela própria restrição da memória humana.
+
+ 	Interagindo com artefatos tecnológicos os usuários podem formar dois tipos de modelos mentais:
+ 		- Modelo Mental Estrutural (MME): (como é a coisa?)
+ 			- Estrutura de como o artefato funciona
+ 			- Descrever a mecânica interna de uma máquina ou sistema e suas partes
+ 			- Atua como substituto daquilo que é real
+
+ 		- Modelo Mental Funcional (MMF): (como a coisa funciona?)
+ 			- Conhecimento procedimental de como usar uma máquina
+ 			- Manual mental de como fazer
+ 			- Mapeamento tarefa-ação
+ 			- Conhecimento anterior de um domínio similar
+
+
+ 	Escala do desenvolvimento do SW:
+
+ 	Modelo de sistema (Real como funciona na visão do programador)
+ 	+
+ 	Modelo do Usuário (Como o usuário percebe o sistema) = Modelo de Design (Maneira como o design apresenta o sistema para o usuário. Apresentação, interação, relação entre objetos)
+
+ 	MÉTODOS DE DESIGN:
+ 		- Simplicidade: Modelos mentais simplificam a realidade, assim o design de uma interface também deve simplificar as funções de um sistema.
+
+ 		- Familiaridade: a interface deve permitir que os usuários possam reconhecê-la com base em conhecimentos já adquiridos por ele anteriormente
+
+ 		- Disponibilidade: a interface deve oferecer pistas visuais, lembretes, lista de opções tanto de modo automático quanto através de requisições pelo usuário
+
+ 		- Flexibilidade: A interface deve prover o uso de distintas técnicas de interação de modo que o usuário possa escolher a mais apropriada para determinados momentos
+
+ 		- Feedback: a interface deve prover feedback contínuo e completo sobre as ações realizadas no sistema. Feedback esperado pelo Modelo mental do usuário faz com que o modelo seja mais solidificado
+
+ 		- Segurança: Toda ação realizada pelo usuário deve gerar resultados esperados por ele.
+
+ 		- Affordances: refere-se às propriedades do objeto, tipos de manipulações que podem ser realizadas com este objeto, pistas de como o objeto pode ser utilizado.
+
+ 	LIMITAÇÕES E DESAFIOS
+ 		Capturar e validar modelos mentais;
+ 		Obter informações de um modelo mental podem alterá-los involuntariamente
+ 		Altamente subjetivo (abstração da abstração)
+
+
+ MODELOS CONCEITUAIS
+ 	Modelo real de algo
+ 	Conjunto de ideias que devem mostrar: o que se deve fazer, como se deve comportar, com que se deve parecer.
+
+ 	Tudo que o usuário faz, bem como sua experiência, está relacionado com a sincronia entre seu Modelo Mental e o Modelo Conceitual (se esta sincronia for fraca, a usabilidade não será boa)
+
+ METÁFORAS
+ 	Tomar conceitos de um domínio de origem (veículo) e aplicá-los em um domínio alvo (significado)
+
+ 	"Ajudam a construir nossos modelos mentais, podendo até representá-los"
+
+ 	Se fazem invisíveis nas interfaces que usamos e/ou projetamos.
+
+ 	OBJETIVO: melhorar a usabilidade.
+
+ 	Metáforas em design podem ser consideradas combinações
+ 		- Combinações têm a contribuição de pelo menos dois domínios
+
+ 	Exemplo: Janela do computador
+ 	1) Características do domínio de origem (Janela de verdade): Tem características para ver o que tem dentro de uma casa, no caso do computador: dentro de uma pasta
+ 	2) Características do domínio alvo (computador): tem uma barra de rolagem, scroll e outros elementos pertencentes ao computador.
+
+ 	Para isso, deve haver correspondência entre os domínios mapeados
+
+ 	Design de metáfora:
+ 		1) Verificar as características do domínio de origem
+ 		2) Verificar as características do domínio alvo
+ 		3) Analisar possíveis relações entre as características dos dois domínios
+ 		4) Não selecionar muitas nem poucas características, pois pode exigir muita bagagem conceitual ou levar a confusão
+ 		5) Tenho como objetivo as pessoas
+
+ 	Princípios para um bom design de metáfora:
+ 		1) Integração: Manter coerência e não misturar metáforas
+ 		2) Desagrupamento: as pessoas devem ser capazes de desagrupar combinações e características dos domínios e entender o por quê a metáfora funciona
+ 		3) Topologia: forma como os conceitos são organizados e estruturados
+ 		4) Análise: avaliar como a metáfora é interpretada pelas pessoas
+ 		5) Design: pensar em como representar objetos e ações

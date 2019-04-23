@@ -1,0 +1,36 @@
+Aula 5
+
+	QUALIDADE X QUANTIDADE
+
+		Produzir um grande número de opções pode ser algo mais valioso.
+
+		Como fazer as pessoas explorarem mais alternativas de design e obterem mais opções para avaliarem quais são os melhores caminhos a serem seguidos?
+			- Design Paralelo: 
+				- Prototipação em paralelo: Criar diversas alternativas de design ao mesmo tempo.
+					- Encoraja comparação
+					- Os diversos protótipos desenvolvidos podem ser releituras de design já existentes
+
+					"Tudo é sempre a cópia de uma cópia"
+
+	AVALIAÇÃO
+		Orienta o avaliador a fazer um julgamento sobre a qualidade de uso da solução desenvolvida e a identificar problemas na interação e na interface que prejudiquem a experiência do usuário.
+
+		Está presente em todo o desenvolvimento, não apenas a última etapa (SCRUM)
+
+		Início -----------------------------------------------------------------------------------------------------------> Estágios mais avançados
+		(Avaliação + simples e informais são suficientes)											(Avaliações mais formais devem ser planejadas e executadas)
+
+		Por que avaliar?
+			"A avaliação possibilita entregar um produto final com uma garantia maior de qualidade"
+
+		"A avaliação de um design interativo deve ser realizada sob a perspectiva de quem o concebe, de quem o constrói e de quem o utiliza"
+			Quem utiliza:
+				Verificar se o sistema apoia adequadamente os usuários a atingirem seus objetivos em um contexto de uso
+			Quem constrói:
+				Verificar se o sistema funciona de acordo com a especificação de requisitos. 
+				Se dado uma entrada, ela é processada e gera uma saída como especificado previamente.
+
+		Objetivos (3 grandes):
+			1) Avaliar a funcionalidade (usuário efetua a tarefa de modo mais fácil e eficiente)
+			2) Avaliar o impacto do design junto ao usuário (avaliar a usabilidade)
+			3) Identificar problemas específicos com o design (identificar aspectos de design que causam resultados inesperados ou confusão entre os usuários)

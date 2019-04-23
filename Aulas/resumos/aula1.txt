@@ -1,0 +1,170 @@
+Design
+Implementação --------> Interfaces de Usuário
+Avaliação
+
+IHM
+	Disciplina relativa ao design, avaliação e implementação de sistemas computacionais interativos para uso humano e aos fenômenos que os cercam.
+	É uma disciplina interessada no projeto, implementação e avaliação de sistemas interativos para uso humano.
+ 
+OBJETIVO
+	Produzir sistemas usáveis, seguros e funcionais: melhorar utilidade, efetividade, usabilidade e segurança de uma interface computacional.
+
+	Estes objetivos podem ser agrupados em 5 tópicos:
+		- Natureza da interação: investigar o que ocorre enquanto as pessoas utilizam sistemas interativos em suas atividades e as consequências que isso resulta em suas vidas;
+
+		- Contexto de Uso: contexto em que as pessoas interagem com os sistemas é fundamental, aspectos sociais e culturais podem influenciar a utilização de interfaces. Importante avaliar o contexto de uso para concepção da interface;
+
+		- Características Humanas: Essas características tem um forte impacto em como o sistema é utilizado, investigar os sentidos humanos para favorecer a utilização de interfaces computacionais.
+
+		- Arquitetura de Sistemas Computacionais: estudar arquiteturas de sistemas buscando construir aplicações que favoreçam a experiência de uso.
+
+		- Processo de Desenvolvimento: importante aplicar métodos, técnicas e ferramentas de construção de interface. Avaliar, analisando não somente os sucessos, mas também os insucessos de interfaces, buscando identificar os motivos que levaram a tal resultado.
+
+	Nielsen (1993): Aceitabilidade de um sistema
+		- Aceitabilidade Social (Portas giratórias dos bancos não são aceitas socialmente);
+		- Aceitabilidade Prática:
+			- Custo;
+			- Compatibilidade;
+			- Facilidade de uso e aprendizado;
+			- Eficiente;
+			- Fácil de lembrar;
+			- Poucos erros;
+
+	IHM é multidisciplinar
+		- Ciência da Computação;
+		- Psicologia, Sociologia e Atropologia;
+		- Design, Ergonomia, Linguística e Semiótica;
+
+
+MÁXIMAS
+	"Uma boa interface se torna invisível para o usuário"
+	"Interfaces ruins podem causar desconforto e rejeição por parte dos usuários"
+
+
+DESIGN INTERATIVO
+	Processo:
+	1) Entendimento: (Equivalente à camada de "Estratégia" do diagrama de Jesse James Garret)
+		Ajuda a entender o que o sistema (Design) deve fazer, como ele tem de ser e como ele se encaixa no ambiente
+			- Requisitos do produto/sistema/produto
+			- Designer deve pesquisar pessoas, atividades e contextos relevantes para o domínio que estão investigando.
+			- Pense na experiência como um todo
+
+	2) Design: (Equivalente à camada de "Escopo" e "Estrutura" do diagrama de Jesse James Garret)
+		"O objetivo do design é fazer com que a interface se comunique com o usuário de modo que este forme modelos mentais corretos, adequados para uso da interface"
+		Tratam tanto do design conteitual quanto físico
+			- Design Conceitual: Considera quais informações e funções são necessárias para que o sistema atinja seu objetivo (propósito geral do sistema) (pense no MVP)
+			- Design Físico: Preocupa-se com o modo como as coisas funcionarão e com o detalhamento da aparência e da percepção do produto (traduzir o design conceitual em designs concretos)
+				Divide-se em 3 componentes:
+					1) Design Operacional: especificar como tudo funciona e como o conteúdo é estruturado e armazenado (arquitetura da informação)
+					2) Design Representacional: escolha de cores, formas, tamanhos e layout da informação (UI)
+					3) Design de Interação: quão fácil e agradável é a utilização do sistema (usabilidade)
+
+	3) Antecipação - Prototipação
+		Preocupa-se em como demonstrar uma ideia de design
+		O meio utilizado para fazer a prototipação deve ser adequado ao estágio em que o projeto de design se encontra
+
+	4) Avaliação:
+		Ligada à prototipação;
+		 - Avaliação da representação. Afetará o que pode ser avaliação;
+		 - O critério de avaliação também dependerá de quem poderá usar a representação.
+
+
+DESIGN PARA PESSOAS (Design Centrado no Usuário)
+	- Desenvolvimento que leva em consideração as TAREFAS, OBJETIVOS e VALORES de QUEM VAI USAR O SISTEMA;
+	- Trabalhar com o usuário por perto ao longo do processo de desenvolvimento;
+	- Conversar com especialistas
+	(E todas aquelas coisas contidas no que seria o design centrado no usuário)
+
+	PREOCUPAÇÕES DO DESIGNER DE SISTEMAS
+		- Como o design deve ser feito?
+		- Quais as tecnologias que devem ser utilizadas?
+		- Quem vai utilizar o sistema?
+		- O que as pessoas querem fazer?
+		- Qual o contexto?
+
+	Resumindo: os OBJETIVOS DO USUÁRIO + Ser capaz de avaliar corretamente o design criado e iterar até atingir a solução
+
+PROTOTIPAÇÃO
+	"Em geral, a prototipação é uma estratégia para lidar, de maneira eficiente, com artefatos que são difíceis de entender ou de prever o funcionamento"
+
+	"PROTÓTIPOS SÃO SEMPRE INCOMPLETOS"
+	(O quanto o seu produto é burro ou o quanto o produto dos concorrentes são burros)
+
+	Consiste em criar uma aproximação da ideia de design para ganhar feedback do usuário, aprender e iterar.
+	Permite explorar alternativas e melhorar o design
+
+	OBJETIVO
+		"Facilitar o feedback" (Cria o protótipo -> Avalia -> Refaz)
+
+	Importante considerar o custo das alterações ao longo do tempo (Engenharia de Software)
+		- Produtos Físicos: Custo das alterações são altos, aumento muito rapidamente ao longo do tempo
+		- Software: Custo das alterações não aumentão tão rapidamente quanto produtos físicos, porém ainda assim são altos;
+		- Websites: São mais fáceis de alterar ao longo do tempo, mesmo assim, o custo de alterações ainda cresce.
+	As alterações mais significativas devem ocorrer logo no início do desenvolvimento.
+
+O aspecto mais desafiador do design de interação é a avaliação do design juntamente com o usuário.
+
+"É difícil chegar a uma conclusão sobre o que é uma boa interface até que esta interface seja testada com o principal interessado: O usuário!"
+
+MÉTODOS DE AVALIAÇÃO DE INTERFACE
+1) Estudo de usabilidade
+	Vantagens:
+		Desenvolvedor convida o usuário para o laboratório de desenvolvimento e os observa enquanto interagem com a interface criada;
+		Facilita descobertas de erros e hipóteses falsas;
+		Modo comum e fácil de encontrar e corrigir erros em softwares existentes
+
+	Desvantagens:
+		Contexto de uso não é fiel à realidade do usuário
+
+2) Questionários
+	Vantagens:
+		Feedback rápido de milhares de pessoas
+		Fácil de comparar múltiplas alternativas
+		Não é necessário criar o design físico
+
+	Desvantagens:
+		O que as pessoas dizem Vs. O que elas realmente fazem
+
+3) Grupo de Foco
+	Reúne pessoas para discutir um design ou ideia
+
+	Vantagens:
+		 Várias opiniões
+
+	Desvantagens:
+		Aceitar ou concordar com uma ideia somente por ser educado (não recomendado para obter dados sobre tópicos polêmicos ou que envolvam questões culturais)
+
+4) Consulta a Especialistas
+	Avaliadores:
+		Um artigo científico em geral passa por uma avaliação por pares, e então é aceito ou rejeitado para publicação.
+
+	Dogfooding:
+		Utilizar seu próprio produto diariamente para aprimorá-lo antes que seja lançado no mercado;
+
+	Avaliação Heurística:
+		Ajuda a identificar problemas de usabilidade
+		Utiliza um pequeno grupo de avaliadores, que avaliam o sistema individualmente e posteriormente combinam suas avaliações
+
+		Objetivo:
+			Encontrar problemas distintos
+
+5) Experimentos Comparativos
+	Confrontar a performance de duas ou mais operações de design
+	Ajuda a reconhecer as variáveis mais importantes envolvidas na criação do design que vá proporcionar ao usuário a experiência que você quer.
+
+	As comparações podem ser feitas:
+		- Online;
+		- Laboratório;
+		- Mundo real.
+
+6) Observação de Participantes
+	Observar o que as pessoas realmente fazem no ambiente em que estão habituadas a trabalhar
+	Observações de longo prazo:
+		- Facilita a descoberta de características de interação importantes que não seriam observadas em cenários controlados (laboratório) e em um espaço muito curto de tempo.
+
+O que considerar ao aplicar um método de avaliação de design?
+	- Confiabilidade e precisão
+	- Generalidade
+	- Realidade
+	- Comparação
+	- Trabalho envolvido

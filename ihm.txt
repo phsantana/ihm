@@ -155,7 +155,7 @@ PERSONA
 		RESUMIDAMENTE:
 
 		Passo 1 - Mapear objetivos
-		Passo 2 - Colocar numa ficha: noma, foto, descrição e objetivos
+		Passo 2 - Colocar numa ficha: nome, foto, descrição e objetivos
 		Passo 3 - Usar a persona!
 
 
