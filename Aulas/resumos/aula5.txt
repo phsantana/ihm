@@ -34,3 +34,76 @@ Aula 5
 			1) Avaliar a funcionalidade (usuário efetua a tarefa de modo mais fácil e eficiente)
 			2) Avaliar o impacto do design junto ao usuário (avaliar a usabilidade)
 			3) Identificar problemas específicos com o design (identificar aspectos de design que causam resultados inesperados ou confusão entre os usuários)
+
+	USABILIDADE
+		"Esforço necessário para utilizar uma aplicação e o julgamento individual deste uso por determinado conjunto de usuários"
+
+		Atributos:
+			- Descoberta: Envolve procurar e encontrar um recurso em resposta à uma necessidade particular;
+			- Aprendizado: processo ao qual o usuário mentaliza como usar o recurso encontrado para realizar a tarefa;
+			- Eficiência: Refere-se ao ponto quando o usuário dominou o recurso e usa-o sem necessitar de aprendizado extra.
+
+			Quando um recurso é pouco utilizado, ele pode acabar caindo em esquecimento: neste caso, utilizar um assistente.
+
+		Por que usar testes de usabilidade?
+			- Redução do número de chamadas ao suporte por parte do usuário.
+			- Redução do custo de treinamento
+			- Ajuda a aumentar a aceitação
+			- Diferenciação do produto em relação ao concorrente
+
+		TESTES DE USABILIDADE
+			Testes contínuos e desde o início
+				- Enfoque empírico para o projeto do software:
+					- O software funciona se os usuários reais decidirem que sim!
+
+			"Incorporar testes de usabilidade durante o processo de desenvolvimento propicia o feedback dos usuários antes do lançamento do produto"
+
+			Projeto iterativo:
+				- Grandes problemas seguidamente mascaram os pequenos
+				- Projetistas e desenvolvedores devem revisar o projeto continuamente através de rodadas de testes.
+
+			Podem ser executados em ambientes laboratoriais ou no próprio ambiente de operação da aplicação
+
+				- A avaliação pode utilizar vídeo conferência
+					Problema: maior impecilho é a baixa taxa de transmissão da rede que ocasiona atrasos na comunicação, interferindo na avaliação.
+
+				- Métodos de inspeção podem ser utilizados para testar usabilidade
+					Conjunto de métodos onde avaliadores vão inspecionar a interface.
+					Os avaliadores nem sempre são especialistas em interface ou fatores humanos e procuram problemas de usabilidade em diferentes contextos usando protótipos ou cenários de software ainda não implementados.
+
+					Principais métodos de inspeção:
+						- Cognitive Walkthrough:
+							Significa rever o número e tipos de passos que a interface exige que o usuário percorra para realizar a tarefa (inclusive aqueles que o usuário precisa ter na sua cabeça)
+
+							O que o usuário deve lembrar ou calcular (tornando o uso mais fácil ou difícil)
+
+							Ajuda a identificar "furos" nas especificações
+
+							Para fazer o "passeio congnitivo":
+								1) Descrição detalhada do protótipo do sistema (não precisa estar completo)
+								2) Descrição da tarefa que o usuário deve realizar
+								3) Lista completa das ações necessárias para completar a tarefa
+								4) Descrição do tipo de usuário e da experiência ou conhecimento exigidos.
+
+								(Tipo um manual de instruções dizendo o passo a passo o que deve ser feito)
+								(Exemplo: tutoriais da Bring, porém, apenas na imaginação)
+
+								"O problema será localizado quando não se conseguir imaginar a história sobre a ação"
+
+						- Avaliação heurística (Jakob Nielsen)
+							Envolvem um pequeno conjunto de avaliadores que examinam a interface e emitem um julgamento baseados em princípios de usabilidade
+
+							Ex: Foregon avaliando minhas interfaces
+								Cada membro da equipe de design gera uma lista de problemas de usabilidade e faz referências a princípios que foram violados.
+								No final, todo mundo se junta e compartilham descobertas e ajustam uma lista final de problemas identificados
+
+							Regras Heurísticas:
+								- Usar diálogos simples e naturais (uma ordem que combine com a tarefa)
+								- Falar a linguagem do usuário (usar palavras e conceitos do mundo do usuário)
+								- Minimizar a sobrecarga de memória (não exigir que o usuário lembre-se de coisas de uma ação para outra)
+								- Ser consciente (usuários devem ser capazes de aprender uma sequência de ações em uma parte do sistema e conseguirem aplicá-las novamente em outra parte para obter resultados similares)
+								- Fornecer mensagens de retorno adequadas (deixem que os usuários saibam que efeitos suas ações tem sobre o sistema)
+								- Fornecer saídas adequadamente marcadas (se os usuários entram em uma parte do sistema que não lhe interessa, eles devem sempre poder sair sem danificar nada)
+								- Fornecer atalhos (Ajudam os usuários experientes a evitar diálogos longos e mensagens informativas que eles não necessitam)
+								- Dar boas mensagens de erro (Boas mensagens de erro informam ao usuário qual é o problema e como resolvê-lo)
+								- Prevenir erros (Sempre que uma mensagem de erro for escrita, deve-se pensar: este erro poderia ser evitado?)
