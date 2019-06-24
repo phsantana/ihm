@@ -1,0 +1,107 @@
+AULA 9
+	ATENÇÃO
+		ATENÇÃO CONCENTRADA
+			VISUAL
+			AUDITIVA
+		ATENÇÃO DIVIDIDA
+			SEMELHANÇA DA TAREFA
+			EXPERIÊNCIA
+			DIFICULDADE DA TAREFA
+
+		TEORIA DO FILTRO BROADBENT
+			A informação que chega aos sentidos fica armazenada na memória de curto prazo (buffer) antes de ser filtrada como interessante para receber atenção.
+			As demais informações podem ser descartadas.
+
+			Um dos inputs ganha acesso à memória de curto prazo, o outro input mantém-se no buffer para processamento posterior.
+
+
+		TEORIA DO FILTRO TREISMAN
+			A análise da informação não vigiada é atenuada ou reduzida.
+			(Abaixar o volume de um sinal ao invés de simplesmente desligá-lo)
+
+
+		TEORIA DO GARGALO
+			"Existe um gargalo que dificulta (ou impossibilita) que duas decisões apropriadas para dois estímulos diferentes sejam executadas simultâneamente"
+
+			Redução da nossa capacidade de resposta quando estamos conduzindo múltiplas tarefas.
+
+			Resultados mostram que quando se diminui o intervalo de tempo entre o 1° e o 2° estímulo, o tempo de reposta ao segundo estímulo vai aumentando. (isso porque existe um gargalo que dificulta o processamento simultâneo).
+
+			"Mesmo após 1000 ensaios, o efeito é mantido".
+
+
+		TEORIA DA CAPACIDADE CENTRAL
+			Existe um processador central que tem recursos limitados.
+			Se as dificuldades das duas tarefas não excederem os recursos totais do processador central, então as duas tarefas não interferem uma com a outra.
+
+
+		TEORIA DA MODULARES
+			Assume-se que o sistema de processamento é modular, com diversos processadores independentes.
+			O grau de semelhança entre duas tarefas é importante (tarefas semelhantes competem pelo mesmo módulo).
+
+
+		TEORIA DA SÍNTESE
+			O processador central, ou atenção, está no topo coordenado e controlando o comportamento.
+			Abaixo do processador central existe um mecanismo de processamento específico que opera de forma independente um do outro.
+
+			"Assume-se que o controle destes pelo processador central previne a desorganização"
+
+		PROCESSAMENTO AUTOMÁTICO
+			"Automaticamente conseguimos obter e processar uma informação"
+
+			- São mais rápidos;
+			- Não exigem atenção;
+			- São inevitáveis.
+
+			PROCESSAMENTO AUTOMÁTICO E CONTROLADO
+				"Somos capazes de processar a informação tanto de maneira automática quanto de maneira controlada"
+
+				Geralmente usamos:
+					Processamento Automático (para tarefas consideradas fáceis):
+						- Pensamento inconsciente;
+						- Não requerem atenção;
+						- Difíceis de modificar uma vez que tenham sido apresentados;
+						- Rápido;
+						- Não tem limitações de capacidade;
+
+					Processamento Controlado (para tarefas não familiares e difíceis):
+						- Pensamento consciente;
+						- Capacidade limitada;
+						- Exigem atenção, intencional, voluntário e requer esforço;
+						- Lento;
+						- Usados com flexibilidade.
+
+
+				"Pessoas que praticam uma tarefa, podem realizá-la rapidamente e precisamente, mas seu desempenho torna-se resistente à mudanças"
+
+
+			ERROS DE AÇÃO
+				"Execução de ações não intencionais, que em termos gerais têm por base falhas ao nível do processo de atenção"
+
+				DIA A DIA
+					- Falhas de armazenamento 
+						Repetir uma ação que já foi executada.
+						"Enviar e-mail 2 vezes"
+
+					- Falhas de teste
+						Desenvolvimento de uma sequência planejada de ações, não é suficientemente monitorada
+						Esquecer qual era a meta da ação devido à falha em monitorar a execução de uma série de ações.
+						"Eu tinha a intenção de sair do carro, mas quando sai na varanda e vi as botas de jardinagem, calcei e fui trabalhar no jardim."
+
+					- Falhas de sub-rotina
+						Envolvem a inserção, omissão ou reordenamento das fases que compõem uma sequência de ações
+						"Fui escrever, antes de começar a escrever eu levei a mão ao rosto para tirar o óculos, mas então lembrei que não tinha colocado os óculos."
+
+					- Falhas de discriminação entre objetos
+						Falha em discriminar entre dois objetos semelhantes usados na execução de uma ação
+						"Ter a intenção de enviar um e-mail e, em vez disso, iniciar o word por engano."
+
+					- Falhas de montagem de programa
+						Envolve a combinação inapropriada de ações
+						"Descascar um amendoim, coloquei a casca na boca e o amendoim na mesa"
+
+				ESTUDOS LABORATORIAIS
+					Indução de contexto enganador
+
+					Problemas:
+						Há poucas garantias de que os erros de ação que ocorrem no laboratório sejam semelhantes aos que ocorrem em ambientes naturais
