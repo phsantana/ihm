@@ -1,0 +1,136 @@
+AULA 7
+
+	PARADIGMAS DE COMUNICAÇÃO HUMANO-COMPUTADOR
+
+		ENGENHARIA COGNITIVA
+			"Tenta aplicar aquilo que é conhecido da ciência ao design e construção de máquinas"
+
+			OBJETIVOS:
+				- Entender os princípios da ação humana que são relevantes à engenharia do design;
+				- Criar sistemas "agradáveis de usar", que possibilitem ao usuário um "engajamento prazeroso"
+
+			CONSIDERA 2 LADOS:
+				1) Interface do sistema (interface como ela realmente é. Modelo conceitual);
+				2) Interface do usuário (interface como ela é vista e percebida pelo usuário);
+
+			TEORIA DA AÇÃO
+				- Entendimento como as pessoas fazem as coisas;
+				- As metas de uma pessoa são expressas em termos relevantes à própria pessoa (aspectos psicológicos);
+				- Os mecanismos e estados do sistema são expressos em termos relativos a ele (aspectos físicos);
+
+				A distância entre variáveis físicas e psicológicas cria os pontos a serem considerados no design, análise e uso de sistemas
+
+					(DESIGN EMOCIONAL)
+					GOLFO DA EXECUÇÃO
+						- Envolve atividades de formação, especificação da sequência de ações;
+						- Execução da ação através do contato com mecanismos de entrada da interface;
+						- As ações realizadas e disponibilizadas pelo sistema, correspondem com as intenções do usuário?;
+
+						GOLFO: Conjunto de esforços para transformar intenções em ações selecionáveis e executáveis.
+
+						Exemplo: "Quero comprar esta blusa. Tem o botão de 'COMPRAR'?";
+
+					GOLFO DA AVALIAÇÃO
+						- Comparar a interpretação do estado do sistema com as metas e intenções originais;
+						- O feedback do sistema pode ser interpretado em termos de intençõs e expectativas?
+
+						GOLFO: Conjunto de esforços existentes para interpretar os feedbacks
+
+
+		MANIPULAÇÃO DIRETA
+			"Do mundo que se comanda para o mundo que se interage"
+			(As interfaces que utilizamos hj)
+
+			3 princípios:
+				1) Representação contínua do objeto de interesse;
+				2) Ações físicas (cliques, arraste, etc.) em vez de sintaxe complexa;
+				3) Operações incrementais reversíveis, cujo impacto no objeto de interesse é imediatamente visível.
+
+
+		MODELOS DO DESIGN DE SOFTWARE
+			O processo de design assemelha-se a um processo de desenvolvimento de software, tal qual visto na Engenharia de Software
+
+			Os designer relatavam que:
+				"O uso do processo convencional da Engenharia aplicados ao desenvolvimento de design, oferecem pouca relação entre as ações do designer e as necessidades dos usuários"
+
+				A natureza do design é diferente do que é produzido na Engenharia de Software.
+
+				Vários modelos para o processo de design foram criados:
+					- Modelo de Eason (
+						Planejamento -(análise de tarefa)> Design -(estudo de usabilidade)> Implementação -(avaliação de usabilidade)> Gerenciamento -(estratégias)> ...
+					);
+					- Modelo Estrela (a avaliação ocorre em todo o processo de software. Imagem mais utilizada nas aulas);
+					- Modelo de  Schneiderman.
+
+
+		ENGENHARIA DE USABILIDADE
+			Processo de design de sistemas computacionais que objetivam:
+				- Facilidade de Aprendizado;
+				- Facilidade de Uso;
+				- Uso agradável para as pessoas.
+
+			Pré-design -> Design Inicial -> Desenvolvimento Iterativo -> Pòs-design
+
+			PRÉ-DESIGN: Fase caracterizada pela busca de informações e conceituação sobre o usuário, seu contexto de trabalho e sistemas relacionados.
+			DESIGN INICIAL: Constitui nas especificações iniciais da interface.
+			DESENVOLVIMENTO ITERATIVO: Alimentado com feedback de testes, o desenvolvimento é iterado até que os objetivos tenham sido alcançados.
+			PÓS-DESIGN: Instalação do sistema no local de trabalho do usuário e acompanhamento com medidas de reações e aceitação do sistema perante os usuários finais.
+
+
+		USO DE GUIDELINES EM DESIGN
+			- O uso de guidelines são um conjunto de princípios norteadores do design
+				- Falar a linguagem do usuário;
+				- Reduzir a carga cognitiva;
+				- Criar para o erro;
+				- Manter consistência;
+
+
+		METÁFORAS NO DESIGN DE INTERFACES
+			Fala apenas sobre a utilização de metáforas para ajudar na construção de modelos mentais e usar conhecimentos familiares, objetos concretos e experiências anteriores para dar estrutura a conceitos mais abstratos.
+
+
+		DESIGN BASEADO EM CENÁRIOS
+			Os computadores são artefatos também da cultura humana (principalmente), além de um artefato tecnológico.
+
+			ARTEFATO TECNOLÓGICO:
+				- Computador deve produzir resultados corretos, ser confiável, eficiente, possível de manter.
+
+			ARTEFATO DA CULTURA:
+				- Devem ser acessíveis para pessoas de outros domínios de conhecimento;
+				- Devem ser fáceis de aprender a usar;
+				- Estender as atividades humanas melhorando sua qualidade de vida, educação e lazer;
+
+			CENÁRIO:
+				- Uma descrição geral narrativa, que as pessoas fazem conforme elas imaginam ou tentam fazer uso de sistemas e aplicações.
+				- Podem ajudar a captar consequências e compromissos de design para análise;
+				- Podem ser expressos tanto na forma narrativa textual quanto na forma de um storyboard;
+				- Identifica o usuário como tendo certas motivações para o uso do sistema.
+
+				Estabelece um canal de comunicação de mão-dupla, usuário-designer
+
+
+		DESIGN PARTICIPATIVO
+			Participação ativa dos usuários finais dos software ao longo de todo o ciclo de desenvolvimento do design (centrado no usuário)
+			O usuário é incorporado como membro da equipe de design.
+
+
+		MÉTODOS ETNOGRÁFICOS EM DESIGN DE INTERFACES
+			- Usuários são submetidos à situações criadas em laboratório.
+			- Antropólogos e sociólogos usam métodos etnográficos para estudar pessoas em seu habitat nativo.
+
+			OBJETIVO:
+				Entendimento da prática do trabalho das pessoas usando uma tecnologia.
+
+			O registro da obsevação pode ser:
+				Orientado à pessoa (interesse em entender o ponto de vista de uma determinada pessoa em determinada função no seu ambiente de trabalho);
+				Orientado a um objeto (captar situações de uso desse artefato. Análise de usabilidade de um protótipo, por exemplo.);
+
+
+		SEMIÓTICA EM SISTEMAS COMPUTACIONAIS
+			A interação do ser humano com o computador é governada por atividades de interpretação e avaliação.
+
+			DESAFIO: traduzir as metas para eventos de entrada no computador e julgar reações do sistema a partir de sua percepção de elementos de saída;
+
+			Estuda os SIGNOS e sistemas de SIGNOS
+
+			SIGNO: qualquer coisa que está no lugar de outra coisa sob determinados aspectos ou capacidades, para alguém (símbolo da impressora para representar o objeto impressora)
