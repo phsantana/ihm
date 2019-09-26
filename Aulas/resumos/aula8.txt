@@ -34,7 +34,7 @@ AULA 8
 					- Usamos também a alça fonológica, que também responde pela nossa experiência de voz interna;
 					- Limitada em capacidade e duração;
 
-				- Bloco visuespacial
+				- Esboço visuoespacial
 					- Informação visual e espacial, equivalente à alça fonológica;
 					- Considerado os "olhos da mente"; (quando imaginamos a tragetória de algo por exemplo, ou um rosto, objetos...)
 
@@ -49,8 +49,8 @@ AULA 8
 				- Memória indelével: parte da memória que nunca se apaga.
 
 				PRINCIPAIS PROCESSOS ASSOCIADOS A ESTE ARMAZENAMENTO ESPECÍFICO
-					Codificação: processo dpelo qual a informação é armazenada na memória;
-					Recuperação: meio pelo ual as memórias são recuperadas do armazenamento de longo prazo;
+					Codificação: processo pelo qual a informação é armazenada na memória;
+					Recuperação: meio pelo qual as memórias são recuperadas do armazenamento de longo prazo;
 					Esquecimento: nome de uma série de diferentes processos possíveis pelos quais falhamos em recuperar informações.
 
 				LEMBRANÇA: Busca ativa da informação na memória;

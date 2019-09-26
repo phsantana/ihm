@@ -92,7 +92,7 @@ ANTECIPAÇÃO
 					- Envolver o usuário na manipulação desse protótipo e passar a ideia que é um produto real.
 
 				Componentes de um protótipo que possa ser testado usando a técnica “Magico de OZ”
-					- Você precisa ter algua coisa que possa ser chamada de interface e que pode ser entregue ao usuário para ser testada
+					- Você precisa ter alguma coisa que possa ser chamada de interface e que pode ser entregue ao usuário para ser testada
 						Mesmo que simples, esta interface deve ser capaz de dar ao usuário a sensação de estar manipulando a interface real.
 						Não deve haver muito código, toda a interatividade é criada como uma "miragem", simulação
 
